@@ -1,0 +1,23 @@
+##Localização de onde deve estar cada arquivo##
+
+.config/hypr/*
+
+.config/waybar/*
+
+.config/nwg-look/*
+
+.config/gtk-3.0/*
+	gtk-4.0/*
+
+.config/qt5ct/*
+	qt6ct/*
+
+.config/kitty/*
+
+.config/rofi/config.rasi
+
+.config/kdeglobals
+
+/etc/greetd/config.toml
+
+bashrc
